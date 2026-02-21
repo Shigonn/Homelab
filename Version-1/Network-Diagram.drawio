@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="29.5.1">
   <diagram name="Page-1" id="xTxtu6eeksrXppuyStMy">
-    <mxGraphModel dx="5493" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3296" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -257,8 +257,8 @@
         <mxCell id="HipKkYMY8DTguzKFv34O-149" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Radarr:&lt;br&gt;Movie tracker&lt;br&gt;Port : 7878&lt;br&gt;radarr.home&lt;br&gt;radarr.example.com" vertex="1">
           <mxGeometry height="90" width="130" x="490.84000000000003" y="1333.41" as="geometry" />
         </mxCell>
-        <mxCell id="HipKkYMY8DTguzKFv34O-150" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Sonarr:&lt;br&gt;TV Shows tracker&lt;br&gt;Port : 8989&lt;br&gt;sonarr.home&lt;br&gt;sonarr.example.com" vertex="1">
-          <mxGeometry height="90" width="130" x="490.84000000000003" y="1412.8700000000001" as="geometry" />
+        <mxCell id="HipKkYMY8DTguzKFv34O-150" parent="1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sonarr:&lt;br&gt;TV Shows tracker&lt;br&gt;Port : 8989&lt;br&gt;sonarr.home&lt;br&gt;sonarr.example.com&lt;/font&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="490.84000000000003" y="1407.8700000000001" as="geometry" />
         </mxCell>
         <mxCell id="hSI3IX2ovwCeVmKyOFNd-1" edge="1" parent="1" source="HipKkYMY8DTguzKFv34O-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="HipKkYMY8DTguzKFv34O-149">
           <mxGeometry relative="1" as="geometry" />
